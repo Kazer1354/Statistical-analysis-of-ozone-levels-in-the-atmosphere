@@ -100,7 +100,7 @@
 
 ---
 
-## 📚 Источники
+## Источники
 
 1. [UCI Air Quality Dataset](https://archive.ics.uci.edu/dataset/360/air+quality)
 2. Shapiro, S.S., Wilk, M.B. (1965). An analysis of variance test for normality
